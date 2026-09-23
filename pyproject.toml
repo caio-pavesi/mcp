@@ -11,4 +11,5 @@ dependencies = [
     "openpyxl",
     "ipykernel",
     "sqlalchemy",
+    "mcp[cli]>=2.2.0",
 ]
